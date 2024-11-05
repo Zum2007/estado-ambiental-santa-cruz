@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Estado Ambiental en Santa Cruz</title>
+</head>
+<body>
+    <h1>Estado Ambiental en Santa Cruz</h1>
+    <p>Bienvenido a la página web sobre el estado ambiental en Santa Cruz, Bolivia.</p>
+
+    <h2>Antecedentes del Proyecto</h2>
+    <p>Información sobre necesidades, diagnóstico y actores involucrados en la problemática ambiental.</p>
+
+    <h2>Objetivos</h2>
+    <ul>
+        <li>Objetivo General: Proporcionar datos confiables y accesibles.</li>
+        <li>Objetivos Específicos: Calidad del aire, deforestación, biodiversidad, etc.</li>
+    </ul>
+
+    <h2>Marco Teórico</h2>
+    <p>Conceptos teóricos y estudios previos que fundamentan el proyecto.</p>
+
+    <h2>Metodología</h2>
+    <p>Explicación del proceso de recopilación y verificación de datos.</p>
+
+    <h2>Resultados</h2>
+    <p>Análisis de datos ambientales sobre Santa Cruz.</p>
+
+    <h2>Conclusiones y Recomendaciones</h2>
+    <p>Resumen del impacto esperado y la importancia de la acción ambiental informada.</p>
+
+    <h2>Bibliografía</h2>
+    <ul>
+        <li><a href="https://www.santacruz.gob.bo">Gobernación de Santa Cruz</a></li>
+        <li><a href="https://www.mmaya.gob.bo">Ministerio de Medio Ambiente y Agua de Bolivia</a></li>
+        <li><a href="https://www.fan-bo.org">Fundación Amigos de la Naturaleza</a></li>
+    </ul>
+</body>
+</html>
